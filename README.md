@@ -9,7 +9,7 @@ A Solr package for importing records from database systems into Apache Solr coll
 
 * Add repository:
 
-    `bin/solr package add-repo data-import-handler "https://raw.githubusercontent.com/rohitbemax/dataimporthandler/master/repo/"`
+    `bin/solr package add-repo data-import-handler "https://raw.githubusercontent.com/rohitbemax/dataimporthandler/8.6.0/repo/"`
 
 * See available packages:
 
