@@ -3,7 +3,7 @@ A Solr package for importing records from database systems into Apache Solr coll
 
 ## Installing and running
 
-* Start Solr (version 8.6.0) nodes with -Denable.packages=true
+* Start Solr (version 8.5.2) nodes with -Denable.packages=true
 
     `bin/solr -c -Denable.packages=true`
 
